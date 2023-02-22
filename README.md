@@ -4,4 +4,4 @@ A list created for everything related to landscape, environment, farm and much m
 ## online communities
 
 - [Homestead - reddit](https://www.reddit.com/r/homestead/)
-- [Landscaping - reddit]https://www.reddit.com/r/landscaping/)
+- [Landscaping - reddit](https://www.reddit.com/r/landscaping/)
