@@ -2,8 +2,8 @@
 
 - Mangue
 - Savana (cerrado)
-- Floresta Ombrófila Mista
-- Floresta Ombrófila Densa
+- [Floresta Ombrófila Mista](https://pt.m.wikipedia.org/wiki/Floresta_ombr%C3%B3fila_mista)
+- [Floresta Ombrófila Densa](https://pt.m.wikipedia.org/wiki/Floresta_ombr%C3%B3fila_densa)
 - [Floresta Estacional Semidecidual](https://pt.m.wikipedia.org/wiki/Floresta_estacional_semidecidual)
 
 ## Refences
