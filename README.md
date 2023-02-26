@@ -8,6 +8,6 @@ A list created for everything related to landscape, environment, farm and much m
 
 ## about biomes
 
-### Brail
+### Brazil
 
 - [São Paulo](./biomes/brazil/sao_paulo.md)
