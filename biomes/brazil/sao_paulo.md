@@ -1,8 +1,8 @@
 # São Paulo biomes
 
 - [Mangrove](https://en.wikipedia.org/wiki/Mangrove)
-- [Savannah (cerrado)](https://en.wikipedia.org/wiki/Cerrado)
-- [Araucaria_moist_forests](https://en.wikipedia.org/wiki/Araucaria_moist_forests)
+- [Savannah (Cerrado)](https://en.wikipedia.org/wiki/Cerrado)
+- [Araucaria Moist Forests](https://en.wikipedia.org/wiki/Araucaria_moist_forests)
 - [Dense Ombrophylous Forest](https://pt.wikipedia.org/wiki/Floresta_ombr%C3%B3fila_densa)
 - [Seasonal Semidecidual Forest](https://pt.wikipedia.org/wiki/Floresta_estacional_semidecidual)
 
