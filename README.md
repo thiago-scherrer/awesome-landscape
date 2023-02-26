@@ -2,6 +2,8 @@
 
 A list created for everything related to landscape, environment, farm and much more
 
+[![lint](https://github.com/thiago-scherrer/awesome-landscape/actions/workflows/lints.yml/badge.svg)](https://github.com/thiago-scherrer/awesome-landscape/actions/workflows/lints.yml)
+
 ## Online communities
 
 - [Homestead - reddit](https://www.reddit.com/r/homestead/)
