@@ -2,12 +2,12 @@
 
 A list created for everything related to landscape, environment, farm and much more
 
-## online communities
+## Online communities
 
 - [Homestead - reddit](https://www.reddit.com/r/homestead/)
 - [Landscaping - reddit](https://www.reddit.com/r/landscaping/)
 
-## essential tools
+## Essential tools
 
 - [Garden Hoe](https://http2.mlstatic.com/D_NQ_NP_2X_747259-MLB53601602031_022023-F.webp): For breaking up soil and removing weeds.
 - [Shovel](https://http2.mlstatic.com/D_NQ_NP_2X_889924-MLB49718441366_042022-F.webp): For digging holes, trenches and transplanting plants.
@@ -18,7 +18,7 @@ A list created for everything related to landscape, environment, farm and much m
 - [Watering Can](https://http2.mlstatic.com/D_NQ_NP_933192-MLB48285588455_112021-W.webp): For watering plants by hand.
 - [Weed Whacker](https://http2.mlstatic.com/D_NQ_NP_945673-MLA42952677615_072020-O.webp): Handheld gardening tool used for trimming or cutting grass, weeds, and other vegetation in areas that a lawn mower cannot easily reach, such as around trees, along fences, and in tight spaces.
 
-## about biomes
+## About biomes
 
 ### Brazil
 
