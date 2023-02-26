@@ -1,5 +1,3 @@
-# About
-
 # São Paulo biomes
 
 - [Mangue](https://en.wikipedia.org/wiki/Mangrove)

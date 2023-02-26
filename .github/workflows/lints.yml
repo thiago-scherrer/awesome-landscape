@@ -1,12 +1,12 @@
-name: postmortem report
+name: lint
 
 on:
   push:
-    - main
+    branches: [main]
 
 jobs:
-  build:
-    name: PostMortem report
+  go-lint:
+    name: Run lints
     runs-on: ubuntu-latest
     steps:
     -
